@@ -1,2 +1,3 @@
 # Self-Driving-Car
-<img src="ezgif.com-video-to-gif.gif" width="1000"  />
+## Demo
+<img src="ezgif.com-video-to-gif.gif" width="500"  />
