@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\HRITHIK\\Desktop\\self-driving-car\\pygta5-car-fast-0.001-alexnetv2-8-epochs-300K-data.model"
+all_model_checkpoint_paths: "C:\\Users\\HRITHIK\\Desktop\\self-driving-car\\pygta5-car-fast-0.001-alexnetv2-8-epochs-300K-data.model"
